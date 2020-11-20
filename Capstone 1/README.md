@@ -21,7 +21,6 @@ Project Organization
     │   ├── 1.0-fa-data-wrangling.ipynb
     │   ├── 2.0-fa-exploratory-data-analysis.ipynb
     │   ├── 3.0-fa-pre-processig-and-modeling.ipynb
-    │   └── 4.0-fa-modeling.ipynb
     │                    
     │
     │
