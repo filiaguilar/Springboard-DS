@@ -7,10 +7,10 @@ From the “invited_by_user_id” column, I made a general “invited” column 
 __Excluding “org_id”:__
 image here
 
-Using SelectKBest and chi2 as the scoring function, after splitting the data into train and test sets and one hot encoding “creation_source” I determined the best predictors of user adoption. 
-The best factor in predicting if a user will become an adopted user is how they create their account. Those that created their accounts from invitations to join another user’s workspace, showed the strongest correlation to becoming adopted users.
+Using SelectKBest and chi2 as the scoring function, after splitting the data into train and test sets and one hot encoding “creation_source” I determined the best predictors of user adoption. The best factor in predicting if a user will become an adopted user is how they create their account. Those that created their accounts from invitations to join another user’s workspace, showed the strongest correlation to becoming adopted users.
 
 
 __Including “org_id”:__
 image here
+
 When I considered “org_id” in the predictor features different org_id’s showed strong correlation to adopted users. However, the personal project invited created accounts still demonstrated the strongest correlation to becoming adopted users. But it is worth exploring why these organizations demonstrated strong correlations, with that insight marketing decisions can be made to try to incentivize users in these organizations to become adopted users with promo codes or similar discounts.
