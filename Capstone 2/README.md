@@ -7,7 +7,7 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
 
 2. Notebooks
  
-The notebooks below contain the data analysis and ML code used for this project.
+   The notebooks below contain the data analysis and ML code used for this project.
  
  * Data Wrangling - Web scraping script
  * Data Cleaning - Data cleaning and feature creation, used with the conjunction.py script for text processing
