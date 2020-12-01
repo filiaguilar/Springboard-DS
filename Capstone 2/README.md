@@ -71,15 +71,13 @@ On average reviews where the user had mixed feelings about a game, encompass the
 
 There was a statistically significant difference among positive and negative reviews (p-value < 0.001). Positive reviews were generally the shortest type of reviews with the average positive review having somewhere between 70 and 90 words. The negative reviews may have been written in similar fashion. Perhaps accounting for the larger number of word usage from positive reviews, with additional excerpts explaining how the game could be improved.
 
-Positive Example:
-
+__Positive Example:__
 “A definitive release was not necessarily needed but extremely welcomed. The added content made an already flawless game better. Playing through the game a second time was somehow more fun. I will always highly recommend this game. The best side scrolling game Xbox One currently has to offer. Beautiful graphics, fluid controls and solid game play that almost forces you to finish in one sitting it's so riveting.”
 
 _*Median word count = 69_
 
 
-Negative Example:
-
+__Negative Example:__
 “It's not a bad game but the gameplay is an outdated one. It by no means a 10 out of 10: - "Realism" is annoying. I hate watching Ioot, skin and cook animations 100 times. -  Parking a horse or picking up something is frustrating as you have to stand in the exact right position to do so. -  75% of the game time it takes riding to the destination to play the game a bit. -  The cover system, menu system and controls are retrograde”
 
 _*Median word count = 79_
