@@ -4,6 +4,7 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
 ## Table of Contents
 1. Data
     * CSV file of scraped game reviews
+    
 
 2. Notebooks
  
@@ -13,6 +14,7 @@ What makes a good RPG game appealing to a gamer? What did gamers enjoy and disli
    * Data Cleaning - Data cleaning and feature creation, used with the conjunction.py script for text processing
    * Exploratory Data Analysis - Visuals and graphs depicting the data
    * Pre-processing and modeling - Pre-processing and model creation to address the problem
+   
 
 3. Reports
  
