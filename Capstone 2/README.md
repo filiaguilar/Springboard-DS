@@ -51,7 +51,7 @@ Using the lang_detect library each review was tagged with an abbreviation of the
 
 ## Exploratory Data Analysis
 
-_How are the user review scores distributed in the data?_
+### _How are the user review scores distributed in the data?_
 
 
 Figure 1: Distribution of user scores
@@ -62,8 +62,9 @@ Mixed:		5 - 7.49
 Negative:	0 - 4.99
 
 Most of the reviews in the dataset were positive, accounting for about 57% of the total reviews shown in Fig. 1. A whopping 10% of all reviews received a 0. It seems like people tend to enjoy video games released on console or they tend to be easily pleased with the attributes game developers add to their games.
-Are positive user reviews longer than negative ones?
 
+
+### _Are positive user reviews longer than negative ones?_
 
 Figure 2: Variability of word counts in reviews by user sentiment
 
@@ -81,7 +82,7 @@ __Negative Example:__ _“It's not a bad game but the gameplay is an outdated on
 *Median word count = 79
 
 
-_What are the most predictive words in game reviews by genre and sentiment?_
+### _What are the most predictive words in game reviews by genre and sentiment?_
 (Put pic of word cloud and short description)
 
 ## Modeling
