@@ -3,6 +3,7 @@
 What makes a good RPG game appealing to a gamer? What did gamers enjoy and dislike the most in other game genres on the Xbox One, Playstation 4 and Nintendo Switch consoles? With the next generation version of these consoles on the rise, in this project I aimed to conduct sentiment analysis on user reviews and considered two business cases were the model may be useful. Exploratory data analysis revealed the most predictive words of positive and negative reviews in different game genres.
 The best performing model was a Logistic Regression model, achieving an ROC-AUC score of around 92%. The model was optimized differently for two business cases. The first was if a company wanted to assess a general response to a release by customers on social media. For this case the metric of interest was balanced accuracy. With a threshold of 0.54 the highest balance accuracy of 84.3% was attained. Allowing game developers to accurately assess their games versus their competitors or to evaluate how consumers receive their game.
 The second business case consisted of helping companies find potential influencers on social media that were willing to promote or advertise the product. For this case the F score was adjusted to favor precision with a beta = 0.25. With the adjusted F score and a threshold of 0.75 the model achieved a precision of about 95%, making the model an efficient predictor of positive reviews greatly reducing the number of false positives.
+
 _The full report can be found in the notebooks folder_
 
 
